@@ -1,0 +1,130 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+*{
+    color:transparent;
+    animation: both linear 10s box;
+}
+.nice{
+    opacity: 0.2;
+}
+span{
+    display: flex;
+}
+.hacker-green11{
+    margin-top: -5px;
+}
+.hacker-green12{
+    margin-top: -5px;
+}
+.s{
+    margin-top: -5px;
+
+}
+.as{
+    margin-top: -6.5px;
+
+}
+.asi{
+    margin-top: -4px;
+
+}
+.asin{
+    margin-top: -5px;
+
+}
+.asina{
+    margin-top: -5px;
+}
+.wrapper{
+    font-size: 20px;
+    margin: 50px auto;
+    width: 390px;
+}
+.hacker-green1{
+    margin-left: 100px;
+}
+.hacker-green2{
+    margin-left: 40px;
+}
+.hacker-green3{
+    margin-left: 14px;
+}
+.hacker-green4{
+    margin-left: 12px;
+}
+.hacker-green18{
+    margin-left: 10px;
+}
+.hacker-green16{
+    margin-left: 0px;
+}
+.hacker-green17{
+    margin-left: 0px;
+}
+.hacker-green12{
+    margin-left: -10px;
+}
+.hacker-green13{
+    margin-left: -10px;
+}
+.hacker-green14{
+    margin-left: -10px;
+}
+.hacker-green19{
+    margin-left: 10px;
+}
+.hacker-green20{
+    margin-left: 20px;
+}
+.hacker-green21{
+    margin-left: 20px;
+}
+.hacker-green22{
+    margin-left: 30px;
+}
+.hacker-green23{
+    margin-left: 40px;
+}
+.hacker-green24{
+    margin-left: 50px;
+}
+.hacker-green25{
+    margin-left: 60px;
+}
+.hacker-green26{
+    margin-left: 70px;
+}
+.hacker-green27{
+    margin-left:  90px;
+}
+.hacker-green28{
+    margin-left: 100px;
+}
+.hacker-green29{
+    margin-left: 110px;
+}
+.hacker-green30{
+    margin-left: 130px;
+}
+.hacker-green31{
+    margin-left: 150px;
+}
+@keyframes box{
+    0%{
+margin-top: 1999px;
+    }
+    50%{
+        color:white;margin-top: 1px;
+    }
+    75%{
+        color: red;
+    }
+    85%{
+        color: rgb(109, 0, 0);
+    }
+
+    100%{
+        color: black;
+    }
+}
